@@ -7,7 +7,7 @@ Python 3.5
 
 ### Description
 
-#### anti-scratch mechanism
+#### 1: anti-scratch mechanism
 
 Reference: https://blog.csdn.net/c406495762/article/details/60137956?utm_source=distribute.pc_relevant.none-task
 
@@ -27,11 +27,9 @@ Test the ip address.
 python ip_test.py
 ```
 
-#####   Step 4
+##### Step 4
 
-Copy the ip address to `proxy = {'http':'163.204.246.76:9999'}` in ava
-
-_downloader.py
+Copy the ip address to `proxy = {'http':'163.204.246.76:9999'}` in ava_downloader.py
 
 ##### Step 5
 
