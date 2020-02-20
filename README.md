@@ -41,7 +41,7 @@ python ava_downloader.py 50 100
 
 Path downloader/AVA_dataset/image will receive images.
 
-### BUGS
+#### 2: Conclusion
 
 - No IP address can pass the 'step-3 test' in that website.
 - ava_downloader_no_ip_camouflage.py will return nothing, which may be caused by my IP being blocked.
